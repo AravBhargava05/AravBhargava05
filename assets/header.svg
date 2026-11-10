@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Arav Bhargava — Hardware for people and robots.</title>
+  <desc id="desc">A cream-on-black typographic banner. Mechanisms, sensing, control.</desc>
+  <rect width="1200" height="330" fill="#181914"/>
+  <path d="M46 60H1154M46 282H1154M870 84V257" stroke="#424237" fill="none"/>
+  <g fill="#eee8da" font-family="Arial, Helvetica, sans-serif">
+    <text x="46" y="40" font-size="14" letter-spacing="3">ARAV BHARGAVA</text>
+    <g font-size="65" font-weight="700" letter-spacing="-2">
+      <text x="43" y="153">HARDWARE FOR</text>
+      <text x="43" y="224">PEOPLE &amp; ROBOTS.</text>
+    </g>
+  </g>
+  <g font-family="monospace" font-size="14" fill="#bdb9ab" letter-spacing="1">
+    <text x="906" y="130">01 / MECHANISMS</text>
+    <text x="906" y="178">02 / SENSING</text>
+    <text x="906" y="226">03 / CONTROL</text>
+    <text x="46" y="310">ENGINEER · INVENTOR · BUILDER</text>
+    <text x="1154" y="310" text-anchor="end">ARAVSPORTFOLIO.COM ↗</text>
+  </g>
+</svg>
