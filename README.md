@@ -25,13 +25,4 @@ Five fingers, ten servos, and an opposing thumb. Adapted from Pollen Robotics’
 </tr>
 </table>
 
-### A few things here
-
-| Project | What’s inside |
-| :--- | :--- |
-| [EMG → hand control](https://github.com/AravBhargava05/BionicArmNN) | Muscle-signal calibration and embedded control for a five-servo hand. |
-| [Robot arm · SAC + HER](https://github.com/AravBhargava05/RobotArm_RL) | Goal-conditioned pick-and-place in Fetch simulation. |
-| [Sign recognition](https://github.com/AravBhargava05/SignLanguageRecognition_CV) | Hand landmarks, a Random Forest, and live webcam inference. |
-| [Q-learning vs SARSA](https://github.com/AravBhargava05/TabularRL_qlearn_vs_SARSA) | Exploration and learned behavior in CliffWalking and Taxi. |
-
 [Portfolio](https://aravsportfolio.com) · [LinkedIn](https://www.linkedin.com/in/arav-bhargava/) · [Email](mailto:abhargava@college.harvard.edu)
